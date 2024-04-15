@@ -44,8 +44,11 @@ print(X)
 ```
 
 ## Output:
-![image](https://github.com/NSArjun/LU-Decomposition/assets/148233801/74ddac30-eda8-40f3-8a54-b8f64c72017a)
 
+(i) To find the L and U matrix
+![image](https://github.com/NSArjun/LU-Decomposition/assets/148233801/ff1d9648-3557-4a67-b9d6-3afbad72c460)
+
+(ii) To find the LU Decomposition of a matrix
 ![image](https://github.com/NSArjun/LU-Decomposition/assets/148233801/cd412e89-3b02-4b3d-b66a-7a5bc68dbae7)
 
 
